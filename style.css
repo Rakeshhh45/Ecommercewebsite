@@ -8,6 +8,7 @@
     flex-direction: row;
     list-style: none;
     align-items: center;
+    
 }
 
 .header li {
@@ -170,3 +171,58 @@
 .v:hover{
     color: white;
 }
+
+.body4{
+   display: flex;
+   flex-direction: row;
+    justify-content: space-between;
+    background-color: lightcyan;
+    margin-left: 50px;
+}
+
+
+
+.d{
+    display: flex;
+    flex-direction: column;
+    margin-left: 120px;
+    margin-top: 50px;
+    
+}
+
+.body5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: lightcyan;
+    margin-right: 50px;
+}
+
+.e{
+    display: flex;
+    flex-direction: column;
+    margin-right: 120px;
+    margin-top: 50px;
+}
+
+
+
+.body3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.z{
+    height: 40px;
+    width: 100px;
+    margin-left: 140px;
+    
+}
+
+.z:hover{
+    background-color: palevioletred;
+}
+
+
